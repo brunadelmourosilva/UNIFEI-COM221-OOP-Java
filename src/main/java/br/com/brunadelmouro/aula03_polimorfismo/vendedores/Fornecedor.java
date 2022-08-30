@@ -1,6 +1,6 @@
-package br.com.brunadelmouro.vendedores;
+package br.com.brunadelmouro.aula03_polimorfismo.vendedores;
 
-public class Fornecedor extends Vendedor{
+public class Fornecedor extends Vendedor {
 
 
     public Fornecedor(double saldo) {

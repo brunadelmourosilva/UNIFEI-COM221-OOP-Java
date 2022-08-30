@@ -1,4 +1,6 @@
-import br.com.brunadelmouro.vendedores.Baruk;
+package br.com.brunadelmouro.aula03_polimorfismo;
+
+import br.com.brunadelmouro.aula03_polimorfismo.vendedores.Baruk;
 
 public class Main {
 

@@ -1,6 +1,6 @@
-package br.com.brunadelmouro.vendedores;
+package br.com.brunadelmouro.aula03_polimorfismo.vendedores;
 
-public class Baruk extends Vendedor{
+public class Baruk extends Vendedor {
 
     private double qtdEstoque;
 
