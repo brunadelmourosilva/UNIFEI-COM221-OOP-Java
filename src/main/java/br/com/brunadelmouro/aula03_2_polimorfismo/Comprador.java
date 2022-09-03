@@ -1,6 +1,6 @@
-package br.com.brunadelmouro.aula03_polimorfismo;
+package br.com.brunadelmouro.aula03_2_polimorfismo;
 
-import br.com.brunadelmouro.aula03_polimorfismo.vendedores.Baruk;
+import br.com.brunadelmouro.aula03_2_polimorfismo.vendedores.Baruk;
 
 public class Comprador {
 

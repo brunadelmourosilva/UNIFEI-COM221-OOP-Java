@@ -1,4 +1,4 @@
-package br.com.brunadelmouro.aula03_polimorfismo.vendedores;
+package br.com.brunadelmouro.aula03_2_polimorfismo.vendedores;
 
 public class Baruk extends Vendedor {
 
