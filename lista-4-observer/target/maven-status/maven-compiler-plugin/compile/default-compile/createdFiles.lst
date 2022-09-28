@@ -1,0 +1,8 @@
+br/unifei/imc/processador/observavel/ProcessadorFrase.class
+br/unifei/imc/processador/observavel/Observavel.class
+br/unifei/imc/processador/observadores/ContaTodasPalavras.class
+br/unifei/imc/processador/observadores/ContaPalavrasImpares.class
+br/unifei/imc/processador/observadores/Observador.class
+br/unifei/imc/processador/exception/SemProcessadoresException.class
+br/unifei/imc/processador/observadores/ContaPalavrasPares.class
+br/unifei/imc/processador/observadores/ContaPalavrasMaiuscula.class

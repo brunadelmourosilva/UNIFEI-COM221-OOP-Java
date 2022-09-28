@@ -1,0 +1,8 @@
+/home/aluno/Documentos/lista-4-observer/src/main/java/br/unifei/imc/processador/observavel/Observavel.java
+/home/aluno/Documentos/lista-4-observer/src/main/java/br/unifei/imc/processador/observadores/ContaPalavrasPares.java
+/home/aluno/Documentos/lista-4-observer/src/main/java/br/unifei/imc/processador/observavel/ProcessadorFrase.java
+/home/aluno/Documentos/lista-4-observer/src/main/java/br/unifei/imc/processador/observadores/ContaPalavrasMaiuscula.java
+/home/aluno/Documentos/lista-4-observer/src/main/java/br/unifei/imc/processador/observadores/Observador.java
+/home/aluno/Documentos/lista-4-observer/src/main/java/br/unifei/imc/processador/exception/SemProcessadoresException.java
+/home/aluno/Documentos/lista-4-observer/src/main/java/br/unifei/imc/processador/observadores/ContaTodasPalavras.java
+/home/aluno/Documentos/lista-4-observer/src/main/java/br/unifei/imc/processador/observadores/ContaPalavrasImpares.java
